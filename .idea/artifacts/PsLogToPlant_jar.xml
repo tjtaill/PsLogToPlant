@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PsLogToPlant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PsLogToPlant_jar</output-path>
+    <root id="archive" name="PsLogToPlant.jar">
+      <element id="module-output" name="PsLogToPlant" />
+    </root>
+  </artifact>
+</component>
